@@ -1,0 +1,6 @@
+Task Performed in this project : 
+EDA (Univariate, Multivariate, KDE, Pearson Correlation)
+Data Preprocessing
+Cross-validation
+Use ROC curve, Precision/Recall for the model's metric (ACCURACY NOT USED)
+An inference pipeline consisting of Data Preprocessing and prediction.
